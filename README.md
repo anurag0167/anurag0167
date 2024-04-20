@@ -1,4 +1,4 @@
-# :wave: Hey There !! I'm Anurag Indora 
+# :wave: Hey There !! I'm Anurag Indora
 - 😄 Pronouns: He/Him
 
 <h4 align="center">
