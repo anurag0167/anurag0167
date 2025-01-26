@@ -1,5 +1,5 @@
 # :wave: Hey There !! I'm Anurag Indora
-- 😄 Pronouns: He/Him
+😄 Pronouns: He/Him
 
 <h4 align="center">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=R&text=false&animation=spin&fill=black&textfill=bface6&">
